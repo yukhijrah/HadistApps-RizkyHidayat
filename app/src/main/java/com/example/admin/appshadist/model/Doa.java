@@ -10,6 +10,7 @@ public class Doa {
     private String arti;
     private String surah;
 
+
     public Doa(String nama, String arti, String surah) {
         this.nama = nama;
         this.arti = arti;
